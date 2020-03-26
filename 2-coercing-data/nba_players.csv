@@ -1,0 +1,497 @@
+,player_id,name,weight,birth_date,height,nationality,team_abbreviation,most_recent_season,box_plus_minus,games_played,games_started,player_efficiency_rating,three_point_percentage,true_shooting_percentage,two_point_attempts,two_point_percentage,two_pointers
+0,klebima01,Maxi Kleber,240lb,1992-01-29,6-10,Germany,DAL,2018-19,0.3,209,75,13.4,.354,.588,529,.597,316
+1,wrighde01,Delon Wright,183lb,1992-04-26,6-5,United States of America,DAL,2018-19,2.2,263,23,16.0,.345,.549,1086,.498,541
+2,finnedo01,Dorian Finney-Smith,220lb,1993-05-04,6-7,United States of America,DAL,2018-19,-1.6,247,135,10.2,.327,.538,662,.541,358
+3,hardati02,Tim Hardaway Jr.,205lb,1992-03-16,6-5,United States of America,DAL,2018-19,-1.0,466,229,13.7,.354,.546,2609,.488,1273
+4,curryse01,Seth Curry,185lb,1990-08-23,6-2,United States of America,,2018-19,,,,,,,,,
+5,jacksju01,Justin Jackson,210lb,1995-03-28,6-7,United States of America,DAL,2018-19,-2.6,207,57,10.2,.325,.531,634,.532,337
+6,brunsja01,Jalen Brunson,190lb,1996-08-31,6-1,United States of America,DAL,2018-19,-1.3,130,54,13.6,.352,.551,652,.520,339
+7,doncilu01,Luka Dončić,218lb,1999-02-28,6-7,Slovenia,DAL,2018-19,5.9,126,126,23.1,.322,.564,1292,.537,694
+8,porzikr01,Kristaps Porziņģis,240lb,1995-08-02,7-3,Latvia,,2018-19,,,,,,,,,
+9,poweldw01,Dwight Powell,240lb,1991-07-20,6-10,Canada,DAL,2018-19,1.5,371,89,18.1,.293,.633,1534,.625,959
+10,marjabo01,Boban Marjanović,290lb,1988-08-15,7-4,Serbia,DAL,2018-19,3.1,223,19,26.1,.320,.635,862,.585,504
+11,bareajo01,J.J. Barea,185lb,1984-06-26,5-10,Puerto Rico,DAL,2018-19,-0.7,828,105,14.5,.352,.515,4336,.462,2005
+12,leeco01,Courtney Lee,215lb,1985-10-03,6-5,United States of America,DAL,2018-19,-0.6,811,518,12.2,.388,.549,4308,.484,2085
+13,caulewi01,Willie Cauley-Stein,240lb,1993-08-18,7-0,United States of America,TOT,2018-19,0.1,349,238,17.0,.211,.559,2617,.541,1417
+14,kiddgmi01,Michael Kidd-Gilchrist,232lb,1993-09-26,6-6,United States of America,TOT,2018-19,-1.8,442,356,13.5,.272,.524,2976,.481,1431
+15,clevean01,Antonius Cleveland,195lb,1994-02-02,6-5,United States of America,DAL,2017-18,-5.7,23,0,4.3,.600,.459,22,.318,7
+16,reavejo02,Josh Reaves,215lb,1997-06-04,6-4,United States of America,DAL,2019-20,-39.5,2,0,-40.0,,.000,1,.000,0
+17,matthwe02,Wesley Matthews,220lb,1986-10-14,6-4,United States of America,MIL,2018-19,0.1,786,724,13.0,.381,.561,4026,.469,1890
+18,lopezbr01,Brook Lopez,270lb,1988-04-01,7-0,United States of America,MIL,2018-19,1.4,778,740,19.5,.338,.566,8609,.522,4492
+19,connapa01,Pat Connaughton,209lb,1993-01-06,6-5,United States of America,MIL,2018-19,-0.5,277,9,11.1,.343,.553,521,.559,291
+20,lopezro01,Robin Lopez,275lb,1988-04-01,7-0,United States of America,MIL,2018-19,-1.0,826,584,16.0,.299,.567,5597,.535,2996
+21,divindo01,Donte DiVincenzo,203lb,1997-01-31,6-4,United States of America,MIL,2018-19,1.1,86,22,13.6,.322,.556,272,.592,161
+22,antetgi01,Giannis Antetokounmpo,242lb,1994-12-06,6-11,Greece,MIL,2018-19,4.9,522,457,22.9,.285,.594,6193,.566,3508
+23,bledser01,Eric Bledsoe,205lb,1989-12-09,6-1,United States of America,MIL,2018-19,2.2,626,464,18.1,.337,.558,4917,.507,2492
+24,ilyaser01,Ersan İlyasova,235lb,1987-05-15,6-9,Turkey,,2018-19,,,,,,,,,
+25,middlkh01,Khris Middleton,222lb,1991-08-12,6-7,United States of America,MIL,2018-19,0.5,510,435,16.3,.392,.569,4342,.492,2135
+26,hillge01,George Hill,188lb,1986-05-04,6-3,United States of America,MIL,2018-19,1.5,778,447,15.1,.385,.572,4240,.500,2118
+27,korveky01,Kyle Korver,212lb,1981-03-17,6-7,United States of America,MIL,2018-19,0.6,1224,422,12.8,.429,.602,3558,.464,1651
+28,brownst02,Sterling Brown,232lb,1995-02-10,6-5,United States of America,MIL,2018-19,-2.1,157,12,9.9,.344,.521,383,.486,186
+29,wilsodj01,D.J. Wilson,231lb,1996-02-19,6-10,United States of America,MIL,2018-19,-2.5,101,3,9.9,.332,.510,181,.503,91
+30,antetth01,Thanasis Antetokounmpo,205lb,1992-07-18,6-6,Greece,MIL,2015-16,-1.8,20,2,15.3,.000,.547,32,.688,22
+31,willima02,Marvin Williams,237lb,1986-06-19,6-8,United States of America,TOT,2018-19,-0.4,1066,828,13.6,.362,.548,5972,.482,2877
+32,masonfr01,Frank Mason III,190lb,1994-04-03,5-11,United States of America,MIL,2018-19,-2.8,96,2,12.5,.294,.482,408,.424,173
+33,reynoca01,Cameron Reynolds,225lb,1995-02-07,6-7,United States of America,MIN,2018-19,-2.5,19,0,10.4,.412,.580,27,.444,12
+34,tuckepj01,P.J. Tucker,245lb,1985-05-05,6-5,United States of America,HOU,2018-19,-0.6,646,470,10.6,.362,.535,2210,.475,1049
+35,mclembe01,Ben McLemore,195lb,1993-02-11,6-3,United States of America,HOU,2018-19,-3.0,431,252,9.6,.363,.540,1658,.477,791
+36,hardeja01,James Harden,220lb,1989-08-26,6-5,United States of America,HOU,2018-19,6.9,826,613,24.7,.363,.610,7477,.509,3806
+37,riverau01,Austin Rivers,200lb,1992-08-01,6-3,United States of America,HOU,2018-19,-3.0,544,149,10.2,.348,.508,2697,.462,1245
+38,houseda01,Danuel House,215lb,1993-06-07,6-6,United States of America,HOU,2018-19,-0.7,121,63,11.8,.369,.588,316,.563,178
+39,westbru01,Russell Westbrook,200lb,1988-11-12,6-3,United States of America,HOU,2018-19,4.8,874,857,23.5,.304,.530,13256,.469,6221
+40,sefolth01,Thabo Sefolosha,220lb,1984-05-02,6-6,Switzerland,HOU,2018-19,0.6,869,475,11.4,.349,.536,2796,.502,1403
+41,gordoer01,Eric Gordon,215lb,1988-12-25,6-3,United States of America,HOU,2018-19,-0.4,663,509,14.3,.370,.558,4597,.475,2184
+42,clemoch01,Chris Clemons,180lb,1997-07-23,5-9,United States of America,HOU,2019-20,-1.3,29,0,12.6,.351,.546,32,.563,18
+43,chandty01,Tyson Chandler,240lb,1982-10-02,7-0,United States of America,HOU,2018-19,0.1,1160,886,16.1,.000,.626,5953,.598,3558
+44,harteis01,Isaiah Hartenstein,249lb,1998-05-05,7-0,United States of America,HOU,2018-19,-1.6,51,2,14.8,.182,.633,97,.639,62
+45,covinro01,Robert Covington,211lb,1990-12-14,6-7,United States of America,TOT,2018-19,0.5,388,340,13.5,.358,.555,1510,.489,738
+46,greenje02,Jeff Green,235lb,1986-08-28,6-8,United States of America,TOT,2018-19,-1.3,900,543,13.2,.334,.538,6849,.484,3315
+47,frazimi01,Michael Frazier,200lb,1994-03-08,6-3,United States of America,,2018-19,,,,,,,,,
+48,carrode01,DeMarre Carroll,215lb,1986-07-27,6-6,United States of America,TOT,2018-19,0.0,575,339,13.3,.358,.545,2359,.485,1145
+49,cabocbr01,Bruno Caboclo,218lb,1995-09-21,6-9,Brazil,TOT,2018-19,-2.4,96,20,11.2,.314,.509,182,.484,88
+50,howarwi01,William Howard,205lb,1993-10-25,6-8,France,HOU,2019-20,-20.7,2,0,-12.7,.000,.000,0,,0
+51,simonan01,Anfernee Simons,181lb,1999-06-08,6-3,United States of America,POR,2018-19,-4.4,85,5,9.5,.339,.509,340,.456,155
+52,mccolcj01,CJ McCollum,197lb,1991-09-19,6-3,United States of America,POR,2018-19,1.0,473,376,17.2,.397,.551,4866,.484,2356
+53,whiteha01,Hassan Whiteside,235lb,1989-06-13,7-0,United States of America,POR,2018-19,2.8,404,320,24.3,.320,.598,3978,.583,2320
+54,lillada01,Damian Lillard,195lb,1990-07-15,6-2,United States of America,POR,2018-19,4.6,607,607,21.9,.371,.578,6361,.484,3076
+55,trentga02,Gary Trent Jr.,209lb,1999-01-18,6-5,United States of America,POR,2018-19,-2.0,68,9,11.0,.374,.532,178,.461,82
+56,anthoca01,Carmelo Anthony,240lb,1984-05-29,6-8,United States of America,POR,2018-19,1.6,1114,1106,19.9,.348,.541,16921,.472,7992
+57,littlna01,Nassir Little,220lb,2000-02-11,6-5,United States of America,POR,2019-20,-3.5,48,5,9.7,.237,.505,92,.554,51
+58,hezonma01,Mario Hezonja,201lb,1995-02-25,6-8,Croatia,POR,2018-19,-2.8,324,69,10.5,.321,.516,1199,.484,580
+59,arizatr01,Trevor Ariza,215lb,1985-06-30,6-8,United States of America,TOT,2018-19,0.7,1064,731,13.2,.352,.536,5102,.484,2468
+60,hoodro01,Rodney Hood,208lb,1992-10-20,6-8,United States of America,POR,2018-19,-0.5,341,248,13.2,.372,.542,2040,.467,953
+61,swanica01,Caleb Swanigan,260lb,1997-04-18,6-9,United States of America,TOT,2018-19,-6.2,75,4,6.8,.118,.471,143,.476,68
+62,gabriwe01,Wenyen Gabriel,220lb,1997-03-26,6-9,Sudan,,2018-19,,,,,,,,,
+63,hoardja01,Jaylen Hoard,216lb,1999-03-30,6-8,France,POR,2019-20,-1.9,13,0,14.9,.000,.504,29,.517,15
+64,brownmo01,Moses Brown,245lb,1999-10-13,7-2,United States of America,POR,2019-20,-9.9,9,0,6.7,,.407,10,.400,4
+65,colliza01,Zach Collins,232lb,1997-11-19,6-11,United States of America,POR,2018-19,-2.5,146,4,10.9,.324,.530,467,.503,235
+66,nurkiju01,Jusuf Nurkić,280lb,1994-08-23,7-0,Bosnia and Herzegovina,POR,2018-19,0.2,310,229,19.1,.071,.529,2894,.498,1440
+67,huntede01,De'Andre Hunter,225lb,1997-12-02,6-7,United States of America,ATL,2019-20,-4.7,63,62,8.6,.355,.521,379,.454,172
+68,youngtr01,Trae Young,180lb,1998-09-19,6-1,United States of America,ATL,2018-19,1.5,141,141,20.2,.344,.567,1455,.488,710
+69,cartevi01,Vince Carter,220lb,1977-01-26,6-6,United States of America,ATL,2018-19,3.0,1541,983,18.6,.371,.536,15171,.462,7003
+70,reddica01,Cam Reddish,208lb,1999-09-01,6-8,United States of America,ATL,2019-20,-4.2,58,34,9.0,.332,.500,304,.428,130
+71,huertke01,Kevin Huerter,190lb,1998-08-27,6-7,United States of America,ATL,2018-19,-2.0,131,107,10.8,.383,.535,580,.455,264
+72,fernabr01,Bruno Fernando,233lb,1998-08-15,6-9,Angola,ATL,2019-20,-4.1,56,13,11.9,.135,.542,162,.605,98
+73,jonesda03,Damian Jones,245lb,1995-06-30,6-11,United States of America,ATL,2018-19,-1.5,104,49,14.4,.222,.686,281,.680,191
+74,bembrde01,DeAndre' Bembry,210lb,1994-07-04,6-5,United States of America,ATL,2018-19,-2.8,189,23,9.9,.269,.500,784,.513,402
+75,collijo01,John Collins,235lb,1997-09-23,6-9,United States of America,ATL,2018-19,1.1,176,126,21.0,.369,.634,1629,.615,1002
+76,goodwbr01,Brandon Goodwin,180lb,1995-10-02,6-0,United States of America,ATL,2018-19,-3.6,50,1,11.3,.301,.496,120,.450,54
+77,teaguje01,Jeff Teague,195lb,1988-06-10,6-3,United States of America,TOT,2018-19,0.7,771,593,17.0,.356,.549,5814,.474,2753
+78,grahatr01,Treveon Graham,223lb,1993-10-28,6-5,United States of America,,2018-19,,,,,,,,,
+79,dedmode01,Dewayne Dedmon,245lb,1989-08-12,7-0,United States of America,TOT,2018-19,-1.1,394,194,14.7,.333,.584,1473,.574,845
+80,brownch02,Charlie Brown,199lb,1997-02-02,6-6,United States of America,ATL,2019-20,-2.5,10,0,11.1,.333,.472,10,.300,3
+81,capelca01,Clint Capela,240lb,1994-05-18,6-10,Switzerland,HOU,2018-19,1.9,334,274,22.0,.000,.629,2783,.635,1766
+82,labissk01,Skal Labissière,216lb,1996-03-18,6-10,Haiti,POR,2018-19,-2.3,148,42,15.0,.353,.546,787,.507,399
+83,hartjo01,Josh Hart,215lb,1995-03-06,6-5,United States of America,NOP,2018-19,-0.7,187,59,11.0,.353,.557,524,.542,284
+84,ingrabr01,Brandon Ingram,190lb,1997-09-02,6-7,United States of America,NOP,2018-19,-1.4,246,207,13.5,.357,.544,2442,.492,1201
+85,balllo01,Lonzo Ball,190lb,1997-10-27,6-6,United States of America,NOP,2018-19,0.6,155,142,12.7,.343,.488,762,.450,343
+86,hayesja02,Jaxson Hayes,220lb,2000-05-23,6-11,United States of America,NOP,2019-20,0.1,56,12,17.8,.250,.675,231,.667,154
+87,holidjr01,Jrue Holiday,205lb,1990-06-12,6-3,United States of America,NOP,2018-19,1.2,707,634,16.9,.355,.529,7199,.488,3510
+88,redicjj01,J.J. Redick,200lb,1984-06-24,6-3,United States of America,NOP,2018-19,0.8,890,487,15.0,.416,.602,4162,.482,2008
+89,mellini01,Nicolò Melli,235lb,1991-01-26,6-9,Italy,NOP,2019-20,-0.6,52,6,12.3,.361,.583,98,.592,58
+90,mooreet01,E'Twaun Moore,191lb,1989-02-25,6-3,United States of America,NOP,2018-19,-1.9,566,189,11.4,.390,.535,2698,.489,1318
+91,jacksfr01,Frank Jackson,205lb,1998-05-04,6-3,United States of America,,2018-19,,,,,,,,,
+92,favorde01,Derrick Favors,265lb,1991-07-15,6-9,United States of America,NOP,2018-19,0.9,677,479,18.9,.207,.562,5774,.539,3115
+93,alexani01,Nickeil Alexander-Walker,205lb,1998-09-02,6-5,Canada,NOP,2019-20,-4.9,41,0,7.6,.342,.441,110,.336,37
+94,willike04,Kenrich Williams,210lb,1994-12-02,6-6,United States of America,NOP,2018-19,-2.1,81,47,8.8,.306,.466,170,.465,79
+95,okafoja01,Jahlil Okafor,275lb,1995-12-15,6-10,United States of America,NOP,2018-19,-2.0,218,114,16.6,.235,.562,1879,.539,1012
+96,willizi01,Zion Williamson,285lb,2000-07-06,6-6,United States of America,NOP,2019-20,2.4,19,19,24.2,.462,.624,279,.595,166
+97,cheatzy01,Zylan Cheatham,220lb,1995-11-17,6-5,United States of America,NOP,2019-20,-10.2,3,0,0.1,.000,.400,4,.500,2
+98,grayjo01,Josh Gray,180lb,1993-09-09,6-0,United States of America,NOP,2017-18,-6.7,7,0,4.7,.231,.355,30,.300,9
+99,milleda01,Darius Miller,225lb,1990-03-21,6-6,United States of America,NOP,2018-19,-2.5,253,28,8.4,.382,.572,396,.495,196
+100,zubaciv01,Ivica Zubac,240lb,1997-03-18,7-0,Bosnia and Herzegovina,LAC,2018-19,0.2,204,110,18.8,.000,.599,1069,.562,601
+101,harremo01,Montrezl Harrell,240lb,1994-01-26,6-7,United States of America,LAC,2018-19,2.6,318,25,22.4,.100,.633,2633,.624,1643
+102,willilo02,Lou Williams,175lb,1986-10-27,6-1,United States of America,LAC,2018-19,1.8,996,118,18.4,.350,.554,7175,.458,3286
+103,greenja01,JaMychal Green,227lb,1990-06-21,6-8,United States of America,LAC,2018-19,-1.6,354,151,13.6,.367,.560,1605,.515,827
+104,leonaka01,Kawhi Leonard,230lb,1991-06-29,6-7,United States of America,LAC,2018-19,6.8,518,491,23.0,.381,.597,5091,.534,2717
+105,pattepa01,Patrick Patterson,230lb,1989-03-14,6-8,United States of America,LAC,2018-19,0.0,673,99,12.6,.369,.539,2408,.499,1202
+106,mcgruro01,Rodney McGruder,200lb,1991-07-29,6-4,United States of America,LAC,2018-19,-2.2,212,115,8.9,.338,.509,591,.481,284
+107,beverpa01,Patrick Beverley,185lb,1988-07-12,6-1,United States of America,LAC,2018-19,0.9,428,348,12.5,.380,.544,1448,.456,661
+108,shamela01,Landry Shamet,188lb,1997-03-13,6-4,United States of America,LAC,2018-19,-1.6,126,54,10.2,.410,.602,244,.467,114
+109,georgpa01,Paul George,220lb,1990-05-02,6-8,United States of America,LAC,2018-19,4.1,646,598,19.2,.380,.564,5922,.470,2783
+110,mannte01,Terance Mann,215lb,1996-10-18,6-5,United States of America,LAC,2019-20,-3.5,35,6,7.1,.250,.472,42,.452,19
+111,motlejo01,Johnathan Motley,230lb,1995-05-04,6-8,United States of America,LAC,2018-19,-1.4,46,4,19.1,.200,.577,153,.575,88
+112,coffeam01,Amir Coffey,205lb,1997-06-17,6-7,United States of America,LAC,2019-20,-6.8,13,0,5.9,.143,.408,26,.462,12
+113,morrima03,Marcus Morris,235lb,1989-09-02,6-8,United States of America,TOT,2018-19,-0.5,600,347,13.4,.367,.536,3726,.473,1762
+114,kabenmf01,Mfiondu Kabengele,250lb,1997-08-14,6-9,Canada,LAC,2019-20,2.1,12,0,18.2,.450,.614,12,.417,5
+115,jacksre01,Reggie Jackson,208lb,1990-04-16,6-3,Italy,TOT,2018-19,0.5,553,343,16.0,.336,.524,4275,.469,2006
+116,noahjo01,Joakim Noah,230lb,1985-02-25,6-11,United States of America,MEM,2018-19,2.5,667,512,17.6,.000,.540,4550,.493,2244
+117,browntr01,Troy Brown Jr.,215lb,1999-07-28,6-6,United States of America,WAS,2018-19,-1.7,113,24,12.9,.336,.519,526,.483,254
+118,smithis01,Ish Smith,175lb,1988-07-05,6-0,United States of America,WAS,2018-19,-1.3,602,161,13.5,.318,.476,3800,.453,1723
+119,bongais01,Isaac Bonga,180lb,1999-11-08,6-8,Germany,WAS,2018-19,-2.7,80,41,10.2,.349,.566,154,.513,79
+120,bealbr01,Bradley Beal,207lb,1993-06-28,6-3,United States of America,WAS,2018-19,1.6,545,511,17.8,.380,.559,5936,.492,2921
+121,bertada01,Dāvis Bertāns,225lb,1992-11-12,6-10,Latvia,WAS,2018-19,1.2,274,32,14.0,.411,.618,428,.526,225
+122,hachiru01,Rui Hachimura,230lb,1998-02-08,6-8,Japan,WAS,2019-20,-3.0,41,41,13.9,.274,.543,383,.517,198
+123,bryanth01,Thomas Bryant,248lb,1997-07-31,6-10,United States of America,WAS,2018-19,1.5,125,81,20.3,.344,.662,667,.667,445
+124,mahinia01,Ian Mahinmi,262lb,1986-11-05,6-11,France,,2018-19,,,,,,,,,
+125,wagnemo01,Moritz Wagner,245lb,1997-04-26,6-11,Germany,WAS,2018-19,-2.6,80,10,14.1,.313,.610,255,.616,157
+126,paytoga02,Gary Payton II,190lb,1992-12-01,6-3,United States of America,WAS,2018-19,-2.5,61,23,10.5,.256,.464,138,.507,70
+127,schofad01,Admiral Schofield,241lb,1997-03-30,6-5,United Kingdom,WAS,2019-20,-5.3,27,2,6.8,.298,.514,28,.571,16
+128,pasecan01,Anžejs Pasečņiks,220lb,1995-12-20,7-1,Latvia,WAS,2019-20,-5.4,24,0,11.6,.000,.555,104,.538,56
+129,mathega01,Garrison Mathews,215lb,1996-10-24,6-5,United States of America,WAS,2019-20,-1.1,18,0,13.1,.413,.691,10,.500,5
+130,napiesh01,Shabazz Napier,175lb,1991-07-14,6-0,United States of America,TOT,2018-19,-0.6,340,54,13.0,.346,.532,1009,.446,450
+131,robinje01,Jerome Robinson,190lb,1997-02-22,6-4,United States of America,TOT,2018-19,-4.6,88,4,6.4,.304,.457,165,.424,70
+132,willijo04,Johnathan Williams,228lb,1995-05-22,6-9,United States of America,WAS,2018-19,-2.8,35,5,14.9,.000,.606,131,.618,81
+133,walljo01,John Wall,210lb,1990-09-06,6-4,United States of America,WAS,2018-19,2.6,573,561,19.4,.324,.519,7444,.457,3403
+134,brookdi01,Dillon Brooks,220lb,1996-01-22,6-7,Canada,MEM,2018-19,-4.3,165,139,10.2,.364,.518,1157,.449,520
+135,jonesty01,Tyus Jones,196lb,1996-05-10,6-0,United States of America,MEM,2018-19,0.0,312,40,14.0,.345,.520,1035,.472,489
+136,valanjo01,Jonas Valančiūnas,265lb,1992-05-06,6-11,Lithuania,MEM,2018-19,0.7,551,523,20.2,.361,.613,4609,.571,2632
+137,moranja01,Ja Morant,175lb,1999-08-10,6-3,United States of America,MEM,2019-20,0.4,59,59,18.0,.367,.568,661,.517,342
+138,anderky01,Kyle Anderson,230lb,1993-09-20,6-9,United States of America,MEM,2018-19,1.5,359,160,13.4,.307,.545,1346,.525,707
+139,jacksja02,Jaren Jackson Jr.,242lb,1999-09-15,6-11,United States of America,MEM,2018-19,0.0,112,110,16.3,.386,.590,808,.545,440
+140,meltode01,De'Anthony Melton,200lb,1998-05-28,6-2,United States of America,MEM,2018-19,-1.2,102,39,12.3,.311,.502,397,.458,182
+141,clarkbr01,Brandon Clarke,210lb,1996-09-19,6-8,Canada,MEM,2019-20,3.5,50,3,21.8,.404,.670,356,.654,233
+142,gudurma01,Marko Guduric,201lb,1995-03-08,6-6,Serbia,MEM,2019-20,-3.4,42,0,8.8,.309,.515,73,.493,36
+143,allengr01,Grayson Allen,198lb,1995-10-08,6-4,United States of America,MEM,2018-19,-4.3,68,2,9.6,.342,.546,164,.494,81
+144,jacksjo02,Josh Jackson,207lb,1997-02-10,6-8,United States of America,MEM,2018-19,-4.0,174,64,11.5,.298,.488,1414,.460,651
+145,watanyu01,Yuta Watanabe,205lb,1994-10-13,6-8,Japan,MEM,2018-19,-6.8,31,0,5.6,.208,.392,56,.393,22
+146,konchjo01,John Konchar,210lb,1996-03-22,6-5,United States of America,MEM,2019-20,5.0,15,0,19.0,.444,.711,26,.731,19
+147,dienggo01,Gorgui Dieng,252lb,1990-01-18,6-10,Senegal,TOT,2018-19,0.2,510,204,16.2,.343,.567,2758,.519,1432
+148,winslju01,Justise Winslow,225lb,1996-03-26,6-6,United States of America,MIA,2018-19,-1.8,241,105,10.4,.337,.486,1490,.447,666
+149,portejo01,Jontay Porter,240lb,1999-11-15,6-11,United States of America,,,,,,,,,,,
+150,bridgmi01,Mikal Bridges,210lb,1996-08-30,6-6,United States of America,PHO,2018-19,-0.6,147,80,11.7,.341,.585,498,.584,291
+151,bookede01,Devin Booker,210lb,1996-10-30,6-5,United States of America,PHO,2018-19,-0.3,334,309,16.8,.355,.566,3883,.490,1904
+152,saricda01,Dario Šarić,225lb,1994-04-08,6-10,Croatia,PHO,2018-19,-0.8,298,200,13.8,.356,.553,1706,.499,851
+153,rubiori01,Ricky Rubio,190lb,1990-10-21,6-3,Spain,PHO,2018-19,0.9,555,534,15.8,.326,.514,3725,.416,1551
+154,oubreke01,Kelly Oubre Jr.,205lb,1995-12-09,6-7,United States of America,PHO,2018-19,-1.9,348,99,12.5,.329,.541,1830,.503,921
+155,okoboel01,Elie Okobo,190lb,1997-10-23,6-3,France,PHO,2018-19,-4.2,107,19,8.8,.315,.498,268,.455,122
+156,carteje01,Jevon Carter,195lb,1995-09-14,6-1,United States of America,PHO,2018-19,-2.1,89,5,9.3,.365,.485,171,.339,58
+157,johnsca02,Cameron Johnson,205lb,1996-03-03,6-8,United States of America,PHO,2019-20,-0.2,49,1,12.2,.397,.576,96,.469,45
+158,diallch01,Cheick Diallo,220lb,1996-09-13,6-8,Mali,PHO,2018-19,-1.4,177,3,17.0,.333,.631,654,.601,393
+159,baynear01,Aron Baynes,260lb,1986-12-09,6-10,New Zealand,PHO,2018-19,-2.1,469,137,14.1,.327,.556,1982,.517,1025
+160,kaminfr01,Frank Kaminsky,240lb,1993-04-04,7-0,United States of America,PHO,2018-19,-0.6,314,36,13.8,.349,.532,1539,.474,730
+161,aytonde01,Deandre Ayton,250lb,1998-07-23,6-11,Bahamas,PHO,2018-19,0.3,101,95,20.5,.000,.595,1328,.575,764
+162,jeromty01,Ty Jerome,195lb,1997-07-08,6-5,United States of America,PHO,2019-20,-3.8,28,0,8.1,.277,.437,59,.407,24
+163,lecquja01,Jalen Lecque,185lb,2000-06-13,6-3,United States of America,PHO,2019-20,-9.3,4,0,5.0,.000,.460,6,.667,4
+164,owensta01,Tariq Owens,205lb,1995-06-30,6-10,United States of America,PHO,2019-20,-5.9,3,0,8.4,.000,.340,3,.333,1
+165,harpeja01,Jared Harper,175lb,1997-09-14,5-11,United States of America,PHO,2019-20,-15.8,3,0,-5.3,.000,.250,2,.500,1
+166,adebaba01,Bam Adebayo,255lb,1997-07-18,6-9,United States of America,MIA,2018-19,2.0,216,112,18.4,.114,.603,1510,.568,858
+167,robindu01,Duncan Robinson,215lb,1994-04-22,6-7,United States of America,MIA,2018-19,0.0,80,61,12.4,.438,.666,81,.630,51
+168,nunnke01,Kendrick Nunn,190lb,1995-08-03,6-2,United States of America,,2018-19,,,,,,,,,
+169,olynyke01,Kelly Olynyk,240lb,1991-04-19,6-11,Canada,MIA,2018-19,0.8,492,100,15.7,.375,.588,2136,.549,1173
+170,butleji01,Jimmy Butler,230lb,1989-09-14,6-7,United States of America,MIA,2018-19,4.2,577,472,20.3,.333,.572,5518,.487,2686
+171,dragigo01,Goran Dragić,190lb,1986-05-06,6-3,Slovenia,MIA,2018-19,0.8,812,509,17.0,.364,.559,6223,.507,3153
+172,jonesde02,Derrick Jones Jr.,210lb,1997-02-15,6-6,United States of America,MIA,2018-19,-0.5,163,45,13.7,.276,.580,575,.603,347
+173,leoname01,Meyers Leonard,260lb,1992-02-27,7-0,United States of America,MIA,2018-19,-1.4,442,91,12.1,.392,.589,1147,.549,630
+174,herroty01,Tyler Herro,200lb,2000-01-20,6-5,United States of America,MIA,2019-20,-2.3,47,6,11.4,.391,.534,279,.434,121
+175,silvach01,Chris Silva,230lb,1996-09-19,6-8,Gabon,MIA,2019-20,-2.5,41,0,17.2,.000,.663,67,.642,43
+176,iguodan01,Andre Iguodala,215lb,1984-01-28,6-6,United States of America,MIA,2018-19,2.3,1122,779,15.7,.334,.555,7459,.519,3869
+177,crowdja01,Jae Crowder,235lb,1990-07-06,6-6,United States of America,TOT,2018-19,0.1,601,290,12.9,.336,.547,2196,.515,1130
+178,hillso01,Solomon Hill,225lb,1991-03-18,6-6,United States of America,TOT,2018-19,-2.0,359,172,9.1,.338,.517,974,.447,435
+179,vincega01,Gabe Vincent,200lb,1996-06-14,6-3,United States of America,MIA,2019-20,-9.6,6,0,1.2,.250,.316,3,.000,0
+180,okpalkz01,KZ Okpala,215lb,1999-04-28,6-8,United States of America,MIA,2019-20,2.7,5,0,13.7,.000,.595,4,.750,3
+181,hasleud01,Udonis Haslem,235lb,1980-06-09,6-8,United States of America,MIA,2018-19,-2.0,857,499,13.0,.070,.533,5338,.494,2636
+182,alexaky01,Kyle Alexander,222lb,1996-10-21,6-11,Canada,,,,,,,,,,,
+183,culveja01,Jarrett Culver,195lb,1999-02-20,6-6,United States of America,MIN,2019-20,-4.0,63,35,9.6,.299,.467,348,.471,164
+184,okogijo01,Josh Okogie,212lb,1998-09-01,6-4,Nigeria,MIN,2018-19,-2.7,136,80,10.4,.274,.520,537,.493,265
+185,townska01,Karl-Anthony Towns,248lb,1995-11-15,6-11,United States of America,MIN,2018-19,4.8,358,358,25.1,.396,.622,4461,.573,2556
+186,martike03,Kelan Martin,235lb,1995-08-03,6-5,United States of America,MIN,2019-20,-4.3,31,4,9.2,.260,.506,85,.541,46
+187,reidna01,Naz Reid,264lb,1999-08-26,6-9,United States of America,MIN,2019-20,-1.9,30,11,15.3,.330,.505,146,.466,68
+188,mclaujo01,Jordan McLaughlin,170lb,1996-04-09,5-11,United States of America,MIN,2019-20,0.3,30,2,16.3,.382,.587,102,.569,58
+189,laymaja01,Jake Layman,209lb,1994-03-07,6-8,United States of America,MIN,2018-19,-2.1,164,37,11.2,.309,.544,415,.571,237
+190,nowelja01,Jaylen Nowell,196lb,1999-07-09,6-4,United States of America,MIN,2019-20,-3.7,15,0,10.5,.115,.471,27,.593,16
+191,beaslma01,Malik Beasley,198lb,1996-11-26,6-4,United States of America,TOT,2018-19,-1.2,220,33,12.9,.388,.566,731,.513,375
+192,hernaju01,Juan Hernangómez,220lb,1995-09-28,6-9,Spain,TOT,2018-19,-1.6,205,51,11.4,.359,.560,387,.512,198
+193,johnsja01,James Johnson,240lb,1987-02-20,6-7,United States of America,TOT,2018-19,0.8,634,220,14.6,.310,.543,3131,.533,1668
+194,russeda01,D'Angelo Russell,198lb,1996-02-23,6-4,United States of America,TOT,2018-19,0.4,317,269,16.4,.356,.526,2760,.468,1293
+195,vandeja01,Jarred Vanderbilt,214lb,1999-04-03,6-9,United States of America,TOT,2018-19,-4.9,28,0,10.5,.000,.558,25,.560,14
+196,evansja02,Jacob Evans,210lb,1997-06-18,6-4,United States of America,TOT,2018-19,-7.4,59,2,4.8,.315,.420,133,.346,46
+197,turneev01,Evan Turner,220lb,1988-10-27,6-6,United States of America,ATL,2018-19,-1.9,705,295,11.9,.294,.493,5414,.458,2478
+198,spellom01,Omari Spellman,245lb,1997-07-21,6-8,United States of America,GSW,2018-19,-1.5,95,14,13.4,.366,.536,301,.458,138
+199,wanambr01,Brad Wanamaker,210lb,1989-07-25,6-3,United States of America,BOS,2018-19,-1.2,99,1,12.3,.380,.569,294,.466,137
+200,willigr01,Grant Williams,236lb,1998-11-30,6-6,United States of America,BOS,2019-20,-2.6,62,5,8.0,.247,.508,107,.551,59
+201,ojelese01,Semi Ojeleye,235lb,1994-12-05,6-6,United States of America,BOS,2018-19,-3.5,190,8,6.5,.333,.518,193,.482,93
+202,tatumja01,Jayson Tatum,204lb,1998-03-03,6-8,United States of America,BOS,2018-19,1.5,218,218,16.7,.399,.564,2011,.484,974
+203,theisda01,Daniel Theis,215lb,1992-04-04,6-8,Germany,BOS,2018-19,1.1,187,62,17.2,.340,.624,675,.619,418
+204,smartma01,Marcus Smart,227lb,1994-03-06,6-3,United States of America,BOS,2018-19,-0.3,394,182,12.1,.318,.501,1661,.434,721
+205,kanteen01,Enes Kanter,262lb,1992-05-20,6-10,Switzerland,BOS,2018-19,-0.2,634,222,20.7,.287,.585,5409,.549,2970
+206,walkeke02,Kemba Walker,172lb,1990-05-08,6-0,United States of America,BOS,2018-19,2.9,655,610,19.4,.360,.538,6767,.453,3066
+207,brownja02,Jaylen Brown,223lb,1996-10-24,6-6,United States of America,BOS,2018-19,-1.2,272,165,13.8,.370,.562,1792,.526,942
+208,haywago01,Gordon Hayward,207lb,1990-03-23,6-7,United States of America,BOS,2018-19,2.2,634,472,17.5,.366,.566,5079,.489,2483
+209,greenja02,Javonte Green,220lb,1993-07-23,6-4,United States of America,BOS,2019-20,-0.6,44,1,12.3,.261,.558,75,.573,43
+210,edwarca01,Carsen Edwards,200lb,1998-03-12,5-11,United States of America,BOS,2019-20,-4.9,35,0,6.5,.309,.446,45,.356,16
+211,langfro01,Romeo Langford,216lb,1999-10-25,6-4,United States of America,BOS,2019-20,-4.6,27,1,6.0,.217,.465,41,.463,19
+212,williro04,Robert Williams,237lb,1997-10-17,6-8,United States of America,BOS,2018-19,2.9,55,3,19.2,,.685,113,.690,78
+213,poirivi01,Vincent Poirier,235lb,1993-10-17,7-0,France,BOS,2019-20,-3.8,21,0,12.8,.500,.540,31,.484,15
+214,watertr01,Tremont Waters,175lb,1998-01-10,5-10,United States of America,BOS,2019-20,-6.5,10,0,6.5,.176,.438,18,.500,9
+215,fallta01,Tacko Fall,311lb,1995-12-10,7-5,Senegal,BOS,2019-20,1.0,6,0,23.9,,.713,12,.750,9
+216,daviste02,Terence Davis,205lb,1997-05-16,6-4,United States of America,TOR,2019-20,1.3,64,2,14.5,.396,.598,169,.550,93
+217,anunoog01,OG Anunoby,232lb,1997-07-17,6-7,United Kingdom,TOR,2018-19,-0.5,204,130,11.2,.362,.578,663,.590,391
+218,bouchch01,Chris Boucher,200lb,1993-01-11,6-9,Saint Lucia,TOR,2018-19,1.6,84,0,20.2,.292,.567,200,.565,113
+219,siakapa01,Pascal Siakam,230lb,1994-04-02,6-9,Cameroon,TOR,2018-19,1.5,269,175,16.8,.333,.580,1975,.562,1110
+220,lowryky01,Kyle Lowry,196lb,1986-03-25,6-0,United States of America,TOR,2018-19,3.2,908,672,18.4,.366,.565,5534,.471,2604
+221,holliro01,Rondae Hollis-Jefferson,217lb,1995-01-03,6-6,United States of America,TOR,2018-19,-0.7,286,152,14.7,.214,.518,1985,.472,936
+222,ibakase01,Serge Ibaka,235lb,1989-09-18,7-0,Republic of Congo,TOR,2018-19,0.6,803,646,17.2,.361,.571,6693,.548,3667
+223,vanvlfr01,Fred VanVleet,195lb,1994-02-25,6-1,United States of America,TOR,2018-19,1.5,225,76,14.9,.392,.541,1033,.428,442
+224,powelno01,Norman Powell,215lb,1993-05-25,6-3,United States of America,TOR,2018-19,-0.3,299,86,13.5,.359,.569,1171,.529,619
+225,mccawpa01,Patrick McCaw,185lb,1995-10-25,6-7,United States of America,TOR,2018-19,-2.8,194,43,7.8,.305,.510,393,.506,199
+226,gasolma01,Marc Gasol,255lb,1985-01-29,6-11,Spain,TOR,2018-19,3.1,831,816,18.2,.356,.556,8347,.497,4152
+227,thomama02,Matt Thomas,190lb,1994-08-04,6-4,United States of America,TOR,2019-20,1.4,33,0,13.6,.467,.650,36,.528,19
+228,millema01,Malcolm Miller,210lb,1993-03-06,6-7,United States of America,,2018-19,,,,,,,,,
+229,johnsst04,Stanley Johnson,245lb,1996-05-29,6-6,United States of America,TOR,2018-19,-2.9,305,64,8.6,.291,.465,1175,.429,504
+230,brissos01,Oshae Brissett,210lb,1998-06-20,6-7,Canada,TOR,2019-20,-5.4,19,0,6.7,.200,.458,21,.476,10
+231,hernade01,Dewan Hernandez,235lb,1996-12-09,6-10,United States of America,TOR,2019-20,-21.3,4,0,4.2,.000,.340,4,.250,1
+232,watsopa01,Paul Watson,215lb,1994-12-30,6-7,United States of America,TOT,2019-20,-7.3,5,0,-0.5,.000,.056,4,.000,0
+233,caldwke01,Kentavious Caldwell-Pope,205lb,1993-02-18,6-5,United States of America,LAL,2018-19,-0.7,533,391,12.1,.350,.533,2834,.478,1354
+234,howardw01,Dwight Howard,265lb,1985-12-08,6-10,United States of America,LAL,2018-19,2.1,1106,1045,21.5,.132,.601,11406,.589,6716
+235,greenda02,Danny Green,215lb,1987-06-22,6-6,United States of America,LAL,2018-19,2.1,681,605,13.0,.402,.568,1906,.461,879
+236,mcgeeja01,JaVale McGee,270lb,1988-01-19,7-0,United States of America,LAL,2018-19,0.2,694,310,19.6,.152,.587,4057,.578,2345
+237,jamesle01,LeBron James,250lb,1984-12-30,6-9,United States of America,LAL,2018-19,8.9,1258,1257,27.5,.344,.586,19245,.549,10564
+238,carusal01,Alex Caruso,186lb,1994-02-28,6-5,United States of America,,2018-19,,,,,,,,,
+239,davisan02,Anthony Davis,253lb,1993-03-11,6-10,United States of America,LAL,2018-19,6.3,521,516,27.5,.319,.588,8254,.535,4415
+240,kuzmaky01,Kyle Kuzma,220lb,1995-07-24,6-8,United States of America,LAL,2018-19,-1.5,201,112,13.5,.327,.542,1622,.531,861
+241,bradlav01,Avery Bradley,180lb,1990-11-26,6-3,United States of America,LAL,2018-19,-2.2,571,493,11.1,.364,.515,4152,.472,1958
+242,rondora01,Rajon Rondo,186lb,1986-02-22,6-1,United States of America,LAL,2018-19,1.3,873,729,16.0,.316,.500,6918,.483,3341
+243,dudleja01,Jared Dudley,237lb,1985-07-10,6-6,United States of America,LAL,2018-19,0.2,887,286,12.6,.394,.576,2945,.517,1523
+244,cookqu01,Quinn Cook,179lb,1993-03-23,6-1,United States of America,LAL,2018-19,-2.2,159,28,12.5,.412,.565,534,.509,272
+245,morrima02,Markieff Morris,245lb,1989-09-02,6-8,United States of America,TOT,2018-19,-1.3,631,347,14.0,.344,.527,4721,.482,2275
+246,antetko01,Kostas Antetokounmpo,200lb,1997-11-20,6-10,Greece,LAL,2018-19,-7.4,5,0,2.1,,.210,3,.000,0
+247,hortota01,Talen Horton-Tucker,235lb,2000-11-25,6-4,United States of America,LAL,2019-20,7.8,2,0,14.8,.000,.000,0,,0
+248,cacokde01,Devontae Cacok,240lb,1996-10-08,6-7,United States of America,,,,,,,,,,,
+249,waitedi01,Dion Waiters,215lb,1991-12-10,6-3,United States of America,MIA,2018-19,-2.1,412,211,12.0,.348,.494,3407,.442,1507
+250,jokicni01,Nikola Jokić,253lb,1995-02-19,7-0,Serbia,DEN,2018-19,7.1,373,332,24.9,.338,.604,3640,.576,2095
+251,morrimo01,Monte Morris,175lb,1995-06-27,6-2,United States of America,DEN,2018-19,1.0,150,14,15.8,.398,.561,820,.517,424
+252,grantje01,Jerami Grant,214lb,1994-03-12,6-8,United States of America,DEN,2018-19,-0.9,447,167,12.8,.348,.558,2075,.521,1081
+253,bartowi01,Will Barton,175lb,1991-01-06,6-5,United States of America,DEN,2018-19,0.0,496,161,14.6,.347,.531,3044,.481,1463
+254,harriga01,Gary Harris,205lb,1994-09-14,6-4,United States of America,DEN,2018-19,-0.9,368,306,13.1,.360,.558,2182,.519,1132
+255,murraja01,Jamal Murray,201lb,1997-02-23,6-4,Canada,DEN,2018-19,-0.1,293,219,15.5,.358,.550,2313,.491,1135
+256,plumlma01,Mason Plumlee,238lb,1990-03-05,6-11,United States of America,DEN,2018-19,1.3,524,257,17.9,.065,.587,2958,.579,1714
+257,craigto01,Torrey Craig,215lb,1990-12-19,6-7,United States of America,DEN,2018-19,-2.2,164,61,10.3,.321,.548,352,.580,204
+258,portemi01,Michael Porter Jr.,215lb,1998-06-29,6-10,United States of America,,2018-19,,,,,,,,,
+259,millspa01,Paul Millsap,250lb,1985-02-10,6-7,United States of America,DEN,2018-19,2.0,989,702,19.0,.343,.560,9196,.513,4718
+260,doziepj01,PJ Dozier,205lb,1996-10-25,6-6,United States of America,DEN,2018-19,-4.8,29,0,10.3,.250,.447,78,.462,36
+261,cancavl01,Vlatko Čančar,210lb,1997-04-10,6-8,Slovenia,DEN,2019-20,-4.5,14,0,11.4,.167,.507,9,.556,5
+262,vonleno01,Noah Vonleh,257lb,1995-08-24,6-10,United States of America,TOT,2018-19,-2.3,332,171,12.0,.310,.527,1090,.501,546
+263,bateske01,Keita Bates-Diop,229lb,1996-01-23,6-8,United States of America,TOT,2018-19,-1.9,69,3,11.3,.301,.521,204,.515,105
+264,danietr01,Troy Daniels,205lb,1991-07-15,6-4,United States of America,TOT,2018-19,-2.2,334,20,10.4,.396,.561,502,.414,208
+265,bolbo01,Bol Bol,235lb,1999-11-16,7-2,Sudan,,,,,,,,,,,
+266,millspa02,Patty Mills,180lb,1988-08-11,6-1,Australia,SAS,2018-19,0.6,668,56,14.4,.389,.563,2174,.482,1047
+267,forbebr01,Bryn Forbes,190lb,1993-07-23,6-2,United States of America,SAS,2018-19,-2.4,261,155,10.7,.400,.559,893,.468,418
+268,lylestr01,Trey Lyles,234lb,1995-11-05,6-9,Canada,SAS,2018-19,-1.2,351,94,13.1,.341,.527,1345,.496,667
+269,derozde01,DeMar DeRozan,220lb,1989-08-07,6-6,United States of America,SAS,2018-19,0.4,813,801,18.2,.283,.541,11598,.475,5510
+270,whitede01,Derrick White,190lb,1994-07-02,6-4,United States of America,SAS,2018-19,0.9,145,68,15.3,.359,.572,725,.519,376
+271,gayru01,Rudy Gay,230lb,1986-08-17,6-8,United States of America,SAS,2018-19,0.7,939,777,16.7,.345,.536,10600,.484,5135
+272,murrade01,Dejounte Murray,170lb,1996-09-19,6-4,United States of America,,2018-19,,,,,,,,,
+273,poeltja01,Jakob Pöltl,230lb,1995-10-15,7-1,Austria,SAS,2018-19,1.0,271,38,17.7,.500,.635,1005,.638,641
+274,aldrila01,LaMarcus Aldridge,260lb,1985-07-19,6-11,United States of America,SAS,2018-19,1.7,1003,962,20.8,.312,.543,15534,.498,7737
+275,walkelo01,Lonnie Walker,205lb,1998-12-14,6-5,United States of America,SAS,2018-19,-3.1,70,4,11.0,.405,.505,229,.428,98
+276,belinma01,Marco Belinelli,210lb,1986-03-25,6-5,Italy,SAS,2018-19,-1.3,855,219,12.2,.376,.549,3709,.465,1726
+277,metuch01,Chimezie Metu,225lb,1997-03-22,6-9,United States of America,SAS,2018-19,-4.8,45,0,12.8,.000,.466,90,.433,39
+278,eubandr01,Drew Eubanks,245lb,1997-02-01,6-9,United States of America,SAS,2018-19,-2.5,37,3,15.2,1.000,.713,53,.660,35
+279,johnske04,Keldon Johnson,211lb,1999-10-11,6-5,United States of America,SAS,2019-20,-0.9,9,0,16.6,.400,.579,26,.538,14
+280,weathqu01,Quinndary Weatherspoon,207lb,1996-09-10,6-3,United States of America,SAS,2019-20,-15.1,3,0,-5.1,.000,.000,2,.000,0
+281,samanlu01,Luka Šamanić,227lb,2000-01-09,6-10,Croatia,SAS,2019-20,-11.9,1,0,-3.4,.000,.000,2,.000,0
+282,harrito02,Tobias Harris,235lb,1992-07-15,6-8,United States of America,PHI,2018-19,0.9,611,491,16.7,.364,.561,5609,.513,2877
+283,korkmfu01,Furkan Korkmaz,190lb,1997-07-24,6-7,Turkey,PHI,2018-19,-1.8,126,19,11.3,.372,.551,309,.485,150
+284,scottmi01,Mike Scott,237lb,1988-07-16,6-7,United States of America,PHI,2018-19,-1.7,499,21,12.8,.363,.554,1729,.523,905
+285,horfoal01,Al Horford,245lb,1986-06-03,6-9,Dominican Replubic,PHI,2018-19,2.8,846,839,18.7,.361,.569,8301,.544,4513
+286,thybuma01,Matisse Thybulle,200lb,1997-03-04,6-5,United States of America,PHI,2019-20,0.1,57,13,9.8,.352,.530,92,.500,46
+287,simmobe01,Ben Simmons,230lb,1996-07-20,6-10,Australia,,2018-19,,,,,,,,,
+288,netora01,Raul Neto,179lb,1992-05-19,6-1,Brazil,PHI,2018-19,-1.5,248,57,11.2,.380,.543,625,.483,302
+289,richajo01,Josh Richardson,200lb,1993-09-15,6-5,United States of America,PHI,2018-19,-0.2,307,236,12.7,.362,.534,1918,.471,904
+290,embiijo01,Joel Embiid,250lb,1994-03-16,7-0,Cameroon,,2018-19,,,,,,,,,
+291,miltosh01,Shake Milton,207lb,1996-09-26,6-5,United States of America,PHI,2018-19,-1.2,52,16,13.4,.413,.592,154,.519,80
+292,oquinky01,Kyle O'Quinn,250lb,1990-03-26,6-9,United States of America,PHI,2018-19,0.9,469,64,17.9,.225,.554,1948,.537,1047
+293,pelleno01,Norvel Pelle,216lb,1993-02-03,6-10,Antigua and Barbuda,PHI,2019-20,-4.1,20,0,11.2,,.521,35,.514,18
+294,robingl02,Glenn Robinson III,222lb,1994-01-08,6-6,United States of America,TOT,2018-19,-1.5,279,103,11.6,.372,.549,927,.503,466
+295,burksal01,Alec Burks,214lb,1991-07-20,6-6,United States of America,TOT,2018-19,-1.2,488,85,13.9,.358,.529,2961,.442,1309
+296,smithzh01,Zhaire Smith,199lb,1999-06-04,6-3,United States of America,PHI,2018-19,-6.1,13,2,7.6,.316,.477,26,.423,11
+297,shayoma01,Marial Shayok,196lb,1995-07-26,6-5,Canada,PHI,2019-20,-11.3,2,0,-2.0,.333,.300,2,.000,0
+298,holidju01,Justin Holiday,181lb,1989-04-05,6-6,United States of America,IND,2018-19,-1.1,422,164,11.1,.362,.528,1335,.443,591
+299,mccontj01,T.J. McConnell,190lb,1992-03-25,6-1,United States of America,IND,2018-19,-0.6,377,75,13.9,.335,.529,1915,.513,983
+300,sabondo01,Domantas Sabonis,240lb,1996-05-03,6-11,United States of America,IND,2018-19,0.5,291,152,17.2,.321,.574,2410,.545,1313
+301,mcderdo01,Doug McDermott,225lb,1992-01-03,6-7,United States of America,IND,2018-19,-2.1,403,14,11.2,.413,.581,1474,.507,747
+302,warretj01,T.J. Warren,215lb,1993-09-05,6-8,United States of America,IND,2018-19,-0.4,322,226,16.4,.350,.561,3369,.534,1798
+303,holidaa01,Aaron Holiday,185lb,1996-09-30,6-0,United States of America,IND,2018-19,-1.6,108,26,11.8,.373,.517,428,.430,184
+304,turnemy01,Myles Turner,250lb,1996-03-24,6-11,United States of America,IND,2018-19,0.6,335,302,16.9,.354,.565,2624,.524,1375
+305,bitadgo01,Goga Bitadze,245lb,1999-07-20,6-11,Georgia,IND,2019-20,-2.5,49,2,12.2,.167,.530,93,.591,55
+306,brogdma01,Malcolm Brogdon,229lb,1992-12-11,6-5,United States of America,IND,2018-19,0.6,235,160,16.2,.385,.572,1752,.511,896
+307,lambje01,Jeremy Lamb,185lb,1992-05-30,6-5,United States of America,IND,2018-19,0.7,481,128,15.8,.339,.544,2761,.500,1380
+308,sampsja02,JaKarr Sampson,215lb,1993-03-20,6-7,United States of America,IND,2018-19,-3.8,199,88,10.3,.251,.526,652,.537,350
+309,sumneed01,Edmond Sumner,176lb,1995-12-31,6-4,United States of America,IND,2018-19,-3.9,49,4,9.2,.262,.471,111,.477,53
+310,leaftj01,T.J. Leaf,225lb,1997-04-30,6-10,Israel,IND,2018-19,-1.6,136,2,14.0,.356,.547,301,.538,162
+311,oladivi01,Victor Oladipo,210lb,1992-05-04,6-4,United States of America,IND,2018-19,1.1,415,355,16.6,.350,.537,4188,.481,2015
+312,johnsal02,Alize Johnson,212lb,1996-04-22,6-7,United States of America,IND,2018-19,-6.4,27,0,8.4,.500,.417,29,.345,10
+313,bowenbr02,Brian Bowen,190lb,1998-10-02,6-6,United States of America,IND,2019-20,-11.8,5,1,-2.0,.000,.222,7,.286,2
+314,mitrona01,Naz Mitrou-Long,218lb,1993-08-03,6-3,Canada,IND,2018-19,-3.6,18,0,5.9,.217,.436,14,.571,8
+315,inglejo01,Joe Ingles,226lb,1987-10-02,6-7,Australia,UTA,2018-19,1.0,470,260,12.5,.407,.589,1162,.512,595
+316,onealro01,Royce O'Neale,226lb,1993-06-05,6-4,United States of America,UTA,2018-19,0.1,215,75,9.6,.380,.572,443,.524,232
+317,mitchdo01,Donovan Mitchell,215lb,1996-09-07,6-1,United States of America,UTA,2018-19,1.4,219,211,17.5,.355,.545,2630,.489,1285
+318,bogdabo02,Bojan Bogdanović,216lb,1989-04-18,6-8,Bosnia and Herzegovina,UTA,2018-19,-1.1,462,345,13.7,.394,.590,2793,.513,1433
+319,goberru01,Rudy Gobert,245lb,1992-06-26,7-1,France,UTA,2018-19,3.8,468,376,21.5,.000,.658,3139,.640,2010
+320,niangge01,Georges Niang,230lb,1993-06-17,6-7,United States of America,UTA,2018-19,-0.6,149,0,11.7,.395,.583,187,.524,98
+321,bradlto01,Tony Bradley,248lb,1998-01-08,6-10,United States of America,UTA,2018-19,0.4,62,2,21.0,.500,.641,180,.628,113
+322,mudiaem01,Emmanuel Mudiay,200lb,1996-03-05,6-3,Democratic Replubic of Congo,UTA,2018-19,-3.1,294,164,11.8,.323,.486,2167,.431,934
+323,conlemi01,Mike Conley,175lb,1987-10-11,6-1,United States of America,UTA,2018-19,2.3,829,793,17.5,.375,.547,6863,.468,3213
+324,clarkjo01,Jordan Clarkson,194lb,1992-06-07,6-4,United States of America,TOT,2018-19,-0.7,445,138,15.6,.341,.537,3739,.502,1876
+325,davised01,Ed Davis,225lb,1989-06-05,6-9,United States of America,UTA,2018-19,-0.1,665,95,16.5,.000,.582,3052,.568,1735
+326,morgaju01,Juwan Morgan,232lb,1997-04-17,6-8,United States of America,UTA,2019-20,-3.3,16,0,8.8,.200,.559,12,.667,8
+327,tuckera01,Rayjon Tucker,210lb,1997-09-24,6-5,United States of America,UTA,2019-20,-7.9,14,0,4.5,.000,.448,13,.615,8
+328,willini01,Nigel Williams-Goss,190lb,1994-09-16,6-2,United States of America,UTA,2019-20,-3.9,9,0,5.7,.000,.254,5,.200,1
+329,onimi01,Miye Oni,206lb,1997-08-04,6-5,United States of America,UTA,2019-20,-17.3,5,0,-9.9,.000,.000,1,.000,0
+330,brantja01,Jarrell Brantley,250lb,1996-06-07,6-5,United States of America,UTA,2019-20,-2.7,5,0,2.7,,,0,,0
+331,wrighju02,Justin Wright-Foreman,190lb,1997-10-27,6-0,United States of America,UTA,2019-20,-7.0,1,0,0.0,,,0,,0
+332,gilgesh01,Shai Gilgeous-Alexander,181lb,1998-07-12,6-5,Canada,OKC,2018-19,0.6,145,136,15.7,.357,.561,1290,.507,654
+333,schrode01,Dennis Schröder,172lb,1993-09-15,6-1,Germany,OKC,2018-19,-1.1,494,176,15.1,.336,.524,4374,.473,2071
+334,paulch01,Chris Paul,175lb,1985-05-06,6-1,United States of America,OKC,2018-19,7.6,1013,1013,25.1,.370,.582,10232,.507,5187
+335,adamsst01,Steven Adams,265lb,1993-07-20,6-11,New Zealand,OKC,2018-19,0.4,525,461,17.2,.100,.596,3619,.590,2135
+336,gallida01,Danilo Gallinari,233lb,1988-08-08,6-10,Italy,,2018-19,,,,,,,,,
+337,noelne01,Nerlens Noel,220lb,1994-04-10,6-10,United States of America,,2018-19,,,,,,,,,
+338,bazleda01,Darius Bazley,208lb,2000-06-12,6-8,United States of America,OKC,2019-20,-2.5,53,8,8.1,.300,.475,130,.446,58
+339,fergute01,Terrance Ferguson,190lb,1998-05-17,6-6,United States of America,OKC,2018-19,-3.8,185,123,5.9,.340,.546,234,.585,137
+340,naderab01,Abdel Nader,225lb,1993-09-25,6-5,Egypt,OKC,2018-19,-2.9,157,7,8.7,.348,.523,314,.468,147
+341,muscami01,Mike Muscala,240lb,1991-07-01,6-10,United States of America,OKC,2018-19,-0.3,348,28,13.4,.364,.579,828,.545,451
+342,diallha01,Hamidou Diallo,202lb,1998-07-31,6-5,United States of America,OKC,2018-19,-4.6,89,6,9.2,.186,.492,325,.502,163
+343,burtode02,Deonte Burton,240lb,1994-01-31,6-4,United States of America,OKC,2018-19,-5.1,66,0,6.4,.247,.445,114,.474,54
+344,dortlu01,Luguentz Dort,215lb,1999-04-19,6-3,Canada,OKC,2019-20,-3.9,29,21,7.3,.301,.521,84,.512,43
+345,herveke01,Kevin Hervey,230lb,1996-07-09,6-9,United States of America,OKC,2019-20,-19.9,7,0,-14.9,.000,.091,3,.333,1
+346,robyis01,Isaiah Roby,230lb,1998-02-03,6-8,United States of America,OKC,2019-20,-15.5,3,0,-7.7,,.000,1,.000,0
+347,roberan03,Andre Roberson,210lb,1991-12-04,6-7,United States of America,,2018-19,,,,,,,,,
+348,dinwisp01,Spencer Dinwiddie,215lb,1993-04-06,6-5,United States of America,BRK,2018-19,0.3,317,130,15.5,.318,.542,1833,.480,879
+349,princta02,Taurean Prince,218lb,1994-03-22,6-7,United States of America,BRK,2018-19,-1.9,260,200,11.2,.366,.536,1288,.459,591
+350,allenja01,Jarrett Allen,237lb,1998-04-21,6-11,United States of America,BRK,2018-19,1.1,216,169,18.8,.169,.641,1313,.628,825
+351,harrijo01,Joe Harris,220lb,1991-09-06,6-6,United States of America,BRK,2018-19,-0.8,325,165,12.1,.423,.610,1138,.538,612
+352,jordade01,DeAndre Jordan,265lb,1988-07-21,6-11,United States of America,BRK,2018-19,1.4,875,713,18.6,.091,.639,4974,.671,3336
+353,templga01,Garrett Temple,195lb,1986-05-08,6-5,United States of America,BRK,2018-19,-2.0,569,243,9.6,.347,.518,1582,.460,727
+354,leverca01,Caris LeVert,205lb,1994-08-25,6-6,United States of America,BRK,2018-19,-0.6,207,86,14.1,.342,.522,1435,.478,686
+355,luwawti01,Timothé Luwawu-Cabarrot,210lb,1995-05-09,6-7,France,BRK,2018-19,-4.3,210,33,8.1,.327,.525,494,.460,227
+356,kurucro01,Rodions Kurucs,228lb,1998-02-05,6-9,Latvia,BRK,2018-19,-2.7,102,50,10.2,.333,.547,334,.536,179
+357,chandwi01,Wilson Chandler,235lb,1987-05-10,6-8,United States of America,,2018-19,,,,,,,,,
+358,musadz01,Džanan Musa,217lb,1999-05-08,6-9,Bosnia and Herzegovina,BRK,2018-19,-5.0,44,0,8.1,.213,.461,86,.500,43
+359,pinsoth01,Theo Pinson,212lb,1995-11-05,6-5,United States of America,BRK,2018-19,-5.6,51,0,6.3,.214,.411,102,.422,43
+360,irvinky01,Kyrie Irving,195lb,1992-03-23,6-2,Australia,BRK,2018-19,4.5,528,528,22.2,.390,.572,6462,.499,3227
+361,claxtni01,Nicolas Claxton,215lb,1999-04-17,6-11,United States of America,BRK,2019-20,-0.7,15,0,14.9,.143,.577,41,.634,26
+362,chiozch01,Chris Chiozza,175lb,1995-11-21,5-11,United States of America,TOT,2018-19,0.5,28,0,12.2,.435,.512,41,.341,14
+363,martije02,Jeremiah Martin,184lb,1996-06-19,6-3,United States of America,BRK,2019-20,-3.0,3,0,5.9,.000,.200,4,.250,1
+364,duranke01,Kevin Durant,240lb,1988-09-29,6-10,United States of America,GSW,2018-19,6.7,849,849,25.2,.381,.613,11737,.532,6244
+365,gallola01,Langston Galloway,200lb,1991-12-09,6-1,United States of America,DET,2018-19,-1.4,405,62,11.5,.367,.519,1476,.428,631
+366,woodch01,Christian Wood,214lb,1995-09-27,6-10,United States of America,DET,2018-19,2.2,113,14,22.0,.368,.636,519,.609,316
+367,makerth01,Thon Maker,221lb,1997-02-25,7-0,South Sudan,DET,2018-19,-2.2,255,65,11.9,.329,.536,563,.506,285
+368,snellto01,Tony Snell,213lb,1991-11-10,6-6,United States of America,DET,2018-19,-2.0,501,275,9.1,.385,.560,1144,.487,557
+369,brownbr01,Bruce Brown,202lb,1996-08-15,6-4,United States of America,DET,2018-19,-2.2,132,99,9.6,.302,.498,572,.465,266
+370,mykhasv01,Sviatoslav Mykhailiuk,205lb,1997-06-10,6-7,Ukraine,DET,2018-19,-2.7,98,27,9.9,.385,.545,171,.398,68
+371,rosede01,Derrick Rose,200lb,1988-10-04,6-2,United States of America,,2018-19,,,,,,,,,
+372,doumbse01,Sekou Doumbouya,209lb,2000-12-23,6-8,Guinea,DET,2019-20,-6.7,38,19,6.2,.286,.474,138,.464,64
+373,kennalu01,Luke Kennard,206lb,1996-06-24,6-5,United States of America,DET,2018-19,-0.8,164,44,12.6,.402,.568,680,.478,325
+374,griffbl01,Blake Griffin,250lb,1989-03-16,6-9,United States of America,,2018-19,,,,,,,,,
+375,hensojo01,John Henson,219lb,1990-12-28,6-9,United States of America,TOT,2018-19,-0.4,445,160,17.1,.250,.557,2581,.549,1418
+376,kinglo02,Louis King,195lb,1999-04-06,6-7,United States of America,DET,2019-20,-6.2,10,0,6.3,.364,.448,10,.400,4
+377,bonejo01,Jordan Bone,179lb,1997-11-05,6-3,United States of America,DET,2019-20,-11.9,10,0,0.8,.200,.300,10,.300,3
+378,knighbr03,Brandon Knight,195lb,1991-12-02,6-2,United States of America,,2018-19,,,,,,,,,
+379,thomakh01,Khyri Thomas,210lb,1996-05-08,6-3,United States of America,DET,2018-19,-5.7,34,0,5.4,.306,.421,37,.324,12
+380,mcraejo01,Jordan McRae,179lb,1991-03-28,6-5,United States of America,TOT,2018-19,-2.1,123,9,13.2,.355,.519,490,.447,219
+381,portibo01,Bobby Portis,246lb,1995-02-10,6-10,United States of America,NYK,2018-19,-1.3,315,54,16.1,.360,.528,2090,.490,1025
+382,knoxke01,Kevin Knox,215lb,1999-08-11,6-7,United States of America,NYK,2018-19,-5.2,140,61,8.6,.337,.474,752,.388,292
+383,randlju01,Julius Randle,250lb,1994-11-29,6-8,United States of America,NYK,2018-19,-0.5,375,295,17.7,.295,.557,4040,.521,2106
+384,gibsota01,Taj Gibson,225lb,1985-06-24,6-9,United States of America,NYK,2018-19,-0.8,799,440,15.5,.220,.550,6029,.521,3140
+385,robinmi01,Mitchell Robinson,223lb,1998-04-01,7-0,United States of America,NYK,2018-19,2.7,127,26,22.7,,.710,632,.720,455
+386,ntilila01,Frank Ntilikina,190lb,1998-07-28,6-4,Belgium,NYK,2018-19,-4.7,178,51,7.7,.311,.450,706,.398,281
+387,barrerj01,RJ Barrett,202lb,2000-06-14,6-6,Canada,NYK,2019-20,-4.3,56,55,10.7,.320,.479,530,.432,229
+388,dotsoda01,Damyean Dotson,202lb,1994-05-06,6-5,United States of America,NYK,2018-19,-2.2,165,42,10.9,.361,.527,576,.477,275
+389,paytoel01,Elfrid Payton,185lb,1994-02-22,6-3,United States of America,NYK,2018-19,-0.5,387,331,15.3,.289,.496,3323,.479,1592
+390,ellinwa01,Wayne Ellington,200lb,1987-11-29,6-4,United States of America,NYK,2018-19,-1.6,681,166,11.1,.378,.534,2177,.446,970
+391,smithde03,Dennis Smith Jr.,195lb,1997-11-25,6-2,United States of America,NYK,2018-19,-2.7,156,122,11.9,.314,.475,1284,.440,565
+392,bullore01,Reggie Bullock,200lb,1991-03-16,6-6,United States of America,NYK,2018-19,-0.8,301,138,11.0,.385,.560,751,.491,369
+393,trieral01,Allonzo Trier,200lb,1996-01-17,6-4,United States of America,NYK,2018-19,-2.7,88,4,12.5,.384,.574,439,.483,212
+394,harklma01,Maurice Harkless,220lb,1993-05-11,6-7,United States of America,TOT,2018-19,-0.5,537,324,12.2,.325,.544,2211,.547,1210
+395,allenka01,Kadeem Allen,200lb,1993-01-15,6-1,United States of America,NYK,2018-19,-1.0,47,2,13.5,.349,.538,144,.472,68
+396,brazdig01,Ignas Brazdeikis,216lb,1999-01-08,6-6,Lithuania,NYK,2019-20,-8.9,9,0,3.3,.111,.351,13,.385,5
+397,wooteke01,Kenny Wooten,220lb,1998-04-17,6-9,United States of America,,,,,,,,,,,
+398,hieldbu01,Buddy Hield,220lb,1992-12-17,6-4,Bahamas,SAC,2018-19,0.8,308,193,15.6,.411,.566,2066,.472,976
+399,barneha02,Harrison Barnes,225lb,1992-05-30,6-8,United States of America,SAC,2018-19,-1.0,604,543,13.3,.375,.544,4819,.477,2300
+400,bjeline01,Nemanja Bjelica,235lb,1988-05-09,6-10,Serbia,SAC,2018-19,0.3,333,153,13.6,.393,.579,1122,.530,595
+401,josepco01,Cory Joseph,200lb,1991-08-20,6-3,Canada,SAC,2018-19,-0.8,592,117,12.2,.331,.514,2765,.476,1315
+402,bogdabo01,Bogdan Bogdanović,220lb,1992-08-18,6-6,Serbia,SAC,2018-19,-0.7,201,90,13.9,.370,.547,1193,.488,582
+403,foxde01,De'Aaron Fox,185lb,1997-12-20,6-3,United States of America,SAC,2018-19,-0.3,199,184,16.3,.335,.528,2053,.478,982
+404,ferreyo01,Yogi Ferrell,180lb,1993-05-09,6-0,United States of America,SAC,2018-19,-1.4,243,53,12.0,.365,.537,892,.466,416
+405,holmeri01,Richaun Holmes,240lb,1993-10-15,6-10,United States of America,SAC,2018-19,0.7,265,57,19.0,.257,.625,1409,.619,872
+406,gilesha01,Harry Giles,240lb,1998-04-22,6-11,United States of America,,2018-19,,,,,,,,,
+407,jamesju01,Justin James,190lb,1997-01-24,6-7,United States of America,SAC,2019-20,-0.7,34,0,11.5,.346,.487,52,.462,24
+408,bazemke01,Kent Bazemore,195lb,1989-07-01,6-4,United States of America,TOT,2018-19,-1.3,547,278,11.8,.350,.520,2431,.456,1109
+409,baglema01,Marvin Bagley III,240lb,1999-03-14,6-11,United States of America,SAC,2018-19,-1.4,75,10,18.3,.288,.553,755,.530,400
+410,lenal01,Alex Len,250lb,1993-06-16,7-0,Ukraine,TOT,2018-19,-2.0,461,180,15.3,.330,.552,2561,.513,1314
+411,jeffrda01,DaQuan Jeffries,216lb,1997-08-30,6-5,United States of America,SAC,2019-20,-2.6,6,0,10.7,.250,.500,3,.667,2
+412,guyky01,Kyle Guy,170lb,1997-08-11,6-1,United States of America,SAC,2019-20,-4.1,2,0,9.8,.000,.500,1,1.000,1
+413,parkeja01,Jabari Parker,245lb,1995-03-15,6-8,United States of America,TOT,2018-19,-0.9,280,190,16.3,.324,.551,2835,.528,1498
+414,sextoco01,Collin Sexton,190lb,1999-01-04,6-1,United States of America,CLE,2018-19,-3.4,147,137,14.0,.392,.539,1741,.469,816
+415,osmande01,Cedi Osman,215lb,1995-04-08,6-7,Republic of Macedonia,CLE,2018-19,-2.9,202,152,11.1,.364,.547,857,.503,431
+416,garlada01,Darius Garland,175lb,2000-01-26,6-1,United States of America,CLE,2019-20,-5.6,59,59,8.5,.355,.498,403,.434,175
+417,thomptr01,Tristan Thompson,238lb,1991-03-13,6-9,Canada,CLE,2018-19,-1.6,619,429,15.6,.281,.546,4492,.520,2335
+418,dellama01,Matthew Dellavedova,200lb,1990-09-08,6-3,Australia,CLE,2018-19,-3.1,434,92,9.8,.368,.510,1142,.409,467
+419,loveke01,Kevin Love,215lb,1988-09-07,6-8,United States of America,CLE,2018-19,3.4,713,630,21.6,.370,.571,6371,.480,3057
+420,nancela02,Larry Nance Jr.,230lb,1993-01-01,6-7,United States of America,CLE,2018-19,1.3,315,96,17.2,.324,.584,1669,.578,964
+421,porteke02,Kevin Porter Jr.,216lb,2000-05-04,6-4,United States of America,CLE,2019-20,-3.7,50,3,10.8,.335,.535,263,.506,133
+422,mckinal01,Alfonzo McKinnie,215lb,1992-09-17,6-7,United States of America,CLE,2018-19,-4.1,126,6,10.2,.307,.543,269,.580,156
+423,exumda01,Dante Exum,190lb,1995-07-13,6-5,Australia,,2018-19,,,,,,,,,
+424,zizican01,Ante Žižić,254lb,1997-01-04,6-10,Croatia,CLE,2018-19,-2.6,113,27,17.4,,.614,470,.581,273
+425,wadede01,Dean Wade,228lb,1996-11-20,6-9,United States of America,CLE,2019-20,-1.2,12,0,13.9,.500,.744,9,.778,7
+426,drumman01,Andre Drummond,279lb,1993-08-10,6-10,United States of America,TOT,2018-19,1.5,599,548,22.1,.146,.540,6657,.548,3646
+427,moonema01,Matt Mooney,200lb,1997-02-07,6-3,United States of America,CLE,2019-20,-0.3,4,0,8.1,.000,.250,2,.500,1
+428,pointsi01,Sir'Dominic Pointer,192lb,1992-05-06,6-6,United States of America,,,,,,,,,,,
+429,mcclesh01,Sheldon Mac,200lb,1992-12-21,6-5,United States of America,,2017-18,,,,,,,,,
+430,windldy01,Dylan Windler,196lb,1996-09-22,6-6,United States of America,,,,,,,,,,,
+431,whiteco01,Coby White,185lb,2000-02-16,6-4,United States of America,CHI,2019-20,-2.8,65,1,11.9,.354,.506,416,.430,179
+432,satorto01,Tomáš Satoranský,198lb,1991-10-30,6-7,Czech Republic,CHI,2018-19,-0.6,275,151,13.6,.369,.567,1113,.514,572
+433,youngth01,Thaddeus Young,220lb,1988-06-21,6-8,United States of America,CHI,2018-19,0.3,965,687,16.2,.333,.538,9503,.523,4973
+434,lavinza01,Zach LaVine,181lb,1995-03-10,6-6,United States of America,CHI,2018-19,-0.6,353,266,15.7,.375,.555,3314,.484,1604
+435,arcidry01,Ryan Arcidiacono,195lb,1994-03-26,6-3,United States of America,,2018-19,,,,,,,,,
+436,dunnkr01,Kris Dunn,205lb,1994-03-18,6-3,United States of America,CHI,2018-19,-1.8,227,126,11.9,.306,.481,1412,.456,644
+437,markkla01,Lauri Markkanen,240lb,1997-05-22,7-0,Finland,CHI,2018-19,-0.3,170,169,15.7,.356,.555,1198,.495,593
+438,cartewe01,Wendell Carter Jr.,259lb,1999-04-16,6-9,United States of America,CHI,2018-19,-2.0,87,87,15.4,.197,.566,653,.538,351
+439,gaffoda01,Daniel Gafford,234lb,1998-10-01,6-10,United States of America,CHI,2019-20,-1.3,43,7,16.2,,.686,134,.701,94
+440,harrish01,Shaquille Harrison,190lb,1993-10-06,6-7,United States of America,CHI,2018-19,-0.3,139,23,14.0,.293,.517,558,.491,274
+441,valende01,Denzel Valentine,210lb,1993-11-16,6-4,United States of America,,2018-19,,,,,,,,,
+442,kornelu01,Luke Kornet,240lb,1995-07-15,7-2,United States of America,CHI,2018-19,0.6,102,33,13.8,.339,.531,215,.507,109
+443,hutchch01,Chandler Hutchison,196lb,1996-04-26,6-7,United States of America,CHI,2018-19,-3.4,72,24,10.1,.295,.514,296,.507,150
+444,feliccr01,Cristiano Felício,270lb,1992-07-07,6-10,Brazil,CHI,2018-19,-2.5,234,20,14.0,.000,.603,729,.582,424
+445,porteot01,Otto Porter,198lb,1993-06-03,6-8,United States of America,CHI,2018-19,1.7,413,295,15.6,.404,.579,2306,.528,1217
+446,mokokad01,Adam Mokoka,190lb,1998-07-18,6-5,France,CHI,2019-20,-4.1,11,0,8.2,.400,.538,13,.462,6
+447,strusma01,Max Strus,215lb,1996-03-28,6-6,United States of America,CHI,2019-20,4.4,2,0,30.7,.000,.727,2,1.000,2
+448,fultzma01,Markelle Fultz,200lb,1998-05-29,6-3,United States of America,ORL,2018-19,-2.0,97,74,13.5,.256,.499,809,.489,396
+449,rosste01,Terrence Ross,206lb,1991-02-05,6-6,United States of America,ORL,2018-19,-0.5,555,176,12.8,.371,.542,2491,.477,1188
+450,fournev01,Evan Fournier,205lb,1992-10-29,6-7,France,ORL,2018-19,-1.1,518,376,13.8,.376,.564,3413,.502,1712
+451,bambamo01,Mo Bamba,241lb,1998-05-12,7-0,United States of America,ORL,2018-19,-0.4,107,1,16.4,.333,.545,351,.544,191
+452,gordoaa01,Aaron Gordon,220lb,1995-09-16,6-8,United States of America,ORL,2018-19,-0.1,399,310,15.2,.318,.530,2917,.508,1483
+453,vucevni01,Nikola Vučević,260lb,1990-10-24,6-11,Switzerland,ORL,2018-19,1.9,590,529,20.4,.331,.536,7478,.516,3860
+454,augusdj01,D.J. Augustin,183lb,1987-11-10,5-11,United States of America,ORL,2018-19,-0.5,856,313,14.2,.379,.556,3738,.438,1636
+455,iwundwe01,Wesley Iwundu,195lb,1994-12-20,6-6,United States of America,ORL,2018-19,-3.5,175,43,8.7,.307,.512,494,.453,224
+456,cartemi01,Michael Carter-Williams,190lb,1991-10-10,6-5,United States of America,ORL,2018-19,-0.9,357,192,13.9,.256,.475,2783,.437,1216
+457,birchkh01,Khem Birch,233lb,1992-09-28,6-9,Canada,,2018-19,,,,,,,,,
+458,isaacjo01,Jonathan Isaac,210lb,1997-10-03,6-11,United States of America,ORL,2018-19,0.1,134,106,13.6,.328,.529,675,.495,334
+459,aminual01,Al-Farouq Aminu,220lb,1990-09-21,6-8,United States of America,ORL,2018-19,-0.5,688,431,12.3,.335,.518,2945,.467,1375
+460,clarkga01,Gary Clark,225lb,1994-11-16,6-6,United States of America,TOT,2018-19,-1.3,86,3,9.6,.308,.502,28,.679,19
+461,frazime01,Melvin Frazier,200lb,1996-08-30,6-5,United States of America,ORL,2018-19,-9.1,25,0,4.6,.308,.397,25,.360,9
+462,ennisja01,James Ennis,210lb,1990-07-01,6-6,United States of America,TOT,2018-19,-1.4,339,95,11.5,.354,.577,915,.533,488
+463,johnsbj01,B.J. Johnson,200lb,1995-12-21,6-7,United States of America,ORL,2018-19,-6.9,15,0,7.8,.308,.477,23,.435,10
+464,lawvi01,Vic Law,200lb,1995-12-19,6-7,United States of America,ORL,2019-20,-25.2,5,0,-16.6,.000,.000,2,.000,0
+465,pascher01,Eric Paschall,255lb,1996-11-04,6-6,United States of America,GSW,2019-20,-2.7,60,26,14.5,.287,.571,511,.550,281
+466,chrisma01,Marquese Chriss,240lb,1997-07-02,6-9,United States of America,GSW,2018-19,-2.3,256,147,13.4,.290,.533,1149,.532,611
+467,poolejo01,Jordan Poole,195lb,1999-06-19,6-4,United States of America,GSW,2019-20,-6.6,57,14,7.2,.279,.454,237,.392,93
+468,leeda03,Damion Lee,210lb,1992-10-21,6-5,United States of America,,2018-19,,,,,,,,,
+469,bowmaky01,Ky Bowman,181lb,1997-06-16,6-1,United States of America,GSW,2019-20,-4.3,45,12,9.2,.308,.494,214,.472,101
+470,greendr01,Draymond Green,230lb,1990-03-04,6-6,United States of America,GSW,2018-19,2.8,576,428,15.1,.319,.531,2675,.506,1354
+471,looneke01,Kevon Looney,220lb,1996-02-06,6-9,United States of America,GSW,2018-19,-0.5,224,36,15.4,.150,.587,693,.595,412
+472,smailal01,Alen Smailagić,215lb,2000-08-18,6-10,Serbia,GSW,2019-20,-2.1,14,0,14.5,.231,.610,27,.630,17
+473,toscaju01,Juan Toscano-Anderson,215lb,1993-04-10,6-6,United States of America,GSW,2019-20,-3.5,13,6,9.4,.348,.529,40,.525,21
+474,wiggian01,Andrew Wiggins,194lb,1995-02-23,6-7,Canada,TOT,2018-19,-1.9,454,454,14.7,.332,.522,5863,.471,2764
+475,bendedr01,Dragan Bender,225lb,1997-11-17,7-0,Bosnia and Herzegovina,TOT,2018-19,-3.9,187,67,7.6,.323,.512,367,.518,190
+476,muldemy01,Mychal Mulder,185lb,1994-06-12,6-4,Canada,GSW,2019-20,-6.1,7,3,7.8,.308,.533,15,.667,10
+477,curryst01,Stephen Curry,190lb,1988-03-14,6-3,United States of America,GSW,2018-19,6.4,699,693,23.8,.435,.623,6192,.515,3187
+478,randlch01,Chasson Randle,185lb,1993-02-05,6-2,United States of America,GSW,2018-19,-3.4,78,2,10.8,.378,.561,155,.445,69
+479,thompkl01,Klay Thompson,215lb,1990-02-08,6-6,United States of America,GSW,2018-19,0.7,615,578,16.4,.419,.575,5533,.491,2714
+480,bridgmi02,Miles Bridges,225lb,1998-03-21,6-6,United States of America,CHO,2018-19,-1.7,145,89,12.6,.328,.531,764,.513,392
+481,grahade01,Devonte' Graham,185lb,1995-02-22,6-1,United States of America,CHO,2018-19,-0.6,109,56,14.5,.357,.523,473,.402,190
+482,roziete01,Terry Rozier,190lb,1994-03-17,6-1,United States of America,CHO,2018-19,-0.1,335,93,13.4,.371,.512,1556,.415,645
+483,washipj01,P.J. Washington,236lb,1998-08-23,6-7,United States of America,CHO,2019-20,-1.6,58,57,12.4,.374,.547,359,.507,182
+484,zelleco01,Cody Zeller,240lb,1992-10-05,7-0,United States of America,CHO,2018-19,-0.5,419,252,16.0,.248,.571,2524,.525,1326
+485,monkma01,Malik Monk,200lb,1998-02-04,6-3,United States of America,CHO,2018-19,-2.9,191,1,11.7,.322,.510,722,.474,342
+486,biyombi01,Bismack Biyombo,255lb,1992-08-28,6-8,Democratic Replubic of Congo,CHO,2018-19,-2.6,636,271,13.1,.000,.548,2365,.521,1232
+487,martico01,Cody Martin,205lb,1995-09-28,6-5,United States of America,CHO,2019-20,-2.1,48,3,10.5,.234,.505,130,.546,71
+488,bacondw01,Dwayne Bacon,221lb,1995-08-30,6-6,United States of America,CHO,2018-19,-5.0,135,30,8.0,.345,.478,496,.425,211
+489,hernawi01,Willy Hernangómez,240lb,1994-05-27,6-11,Spain,CHO,2018-19,0.1,209,26,19.7,.330,.579,975,.549,535
+490,batumni01,Nicolas Batum,200lb,1988-12-14,6-9,France,CHO,2018-19,1.6,789,714,14.8,.357,.556,3974,.503,1998
+491,martica02,Caleb Martin,205lb,1995-09-28,6-5,United States of America,CHO,2019-20,-1.0,18,1,12.0,.541,.595,47,.362,17
+492,mcdanja01,Jalen McDaniels,192lb,1998-01-31,6-10,United States of America,CHO,2019-20,-3.3,16,0,10.7,.375,.574,46,.522,24
+493,chealjo01,Joe Chealey,190lb,1995-11-01,6-3,United States of America,CHO,2018-19,-13.0,5,0,-1.9,.000,.184,6,.167,1
+494,simmoko01,Kobi Simmons,166lb,1997-07-04,6-5,United States of America,CLE,2018-19,-6.9,33,12,7.7,.282,.490,150,.460,69
+495,spaldra01,Ray Spalding,215lb,1997-03-11,6-10,United States of America,TOT,2018-19,-5.1,14,3,14.6,.000,.516,44,.568,25
